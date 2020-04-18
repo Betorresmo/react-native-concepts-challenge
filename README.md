@@ -18,15 +18,15 @@ The API used is [Here](https://github.com/Betorresmo/node-concepts-challenge)
 
 <b>To install dependencies:</b>
 ```
-yarn install
+$ yarn install
 ```
 <b>To compile:</b>
 ```
-yarn start
+$ yarn start
 ```
 <b>To start the android emulator:</b>
 ```
-yarn android
+$ yarn android
 ```
 
 ## 📬 [Contact me](https://www.linkedin.com/in/guerrero-roberto/)
